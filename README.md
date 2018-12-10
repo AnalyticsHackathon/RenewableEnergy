@@ -44,5 +44,12 @@ Spain – 5.3% Wind, 2.4% Solar | Solar - Cost: 0.11, CO2e: 54 Wind – Cost: 0.
 Brazil – 2% Wind, 2.8% Nuclear | Nuclear- Cost: 0.15, CO2e: 12 Wind – Cost: 0.12, CO2e: 13 | Interprint – Elec: 30MWh/yr Solar: 3.5MWh/yr Fossil: 0.5MWh/yr
 Japan – 0.7% Wind, 15.4% Solar | Solar - Cost: 0.12, CO2e: 54 Wind – Cost: 0.12, CO2e: 14 | NEC – Elec: 20MWh/yr Solar: 1MWh/yr Biomass – 0.5MWh/yr
 
+# Algorithm
+![alt text](https://github.com/AnalyticsHackathon/RenewableEnergy/blob/master/doc/algorithm_EnergyPotential.png)
+![alt text](https://github.com/AnalyticsHackathon/RenewableEnergy/blob/master/doc/algorithm_TotalCost.png)
+![alt text](https://github.com/AnalyticsHackathon/RenewableEnergy/blob/master/doc/algorithm_TotalEmission.png)
+* Minimizing the 2nd function gives us the most cost optimal solution which may not be green
+* Minimizing the 3rd function gives us the most green solution
+
 # Results
 https://github.com/AnalyticsHackathon/RenewableEnergy/blob/master/doc/RenewableEnergy-SEMI-FINAL.pptx 
