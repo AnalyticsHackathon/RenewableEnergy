@@ -1,0 +1,23 @@
+Region Wise data:
+    * Percentage of a given RE technology in Electricity
+    * Tech-wise CO2e per region
+    * Tech-wise Cost per region
+    * Tech potential for future - Future Score
+
+Supplier:
+Sources of energy
+    * Electricity
+    * Fossil
+    * Own Solar Panels
+    * Natural Gas
+
+Cost for each energy:
+RE composition of energy supplied from grid - region-wise comparison 
+
+Source of energy for usage split:
+    * Climate Control -  
+    * Vehicles - 
+    * Lighting & Appliances - 
+
+\lim_{0 < tech < potential} f(tech) = Energy Potential_{tech}
+\sum_{tech} \lim_{0 < unit < EP_{tech}} Unit * Cost_{tech}
