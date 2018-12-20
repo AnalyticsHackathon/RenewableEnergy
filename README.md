@@ -2,8 +2,8 @@
 Data analysis and prediction of which is the most carbon efficient country in the future
 
 # Why & What?
-Develop a Score-Card modeling tool that takes industry data – analyzes and scores Cisco’s suppliers.
-* Through accredited data sources on renewables and the availability of these renewable energy sources by country, a complete assessment can be completed of Cisco’s Supply Chain and a scorecard generated to help drive the future of moving towards a Sustainable Supply Chain while helping to reduce CO2 emissions.
+Develop a Score-Card modeling tool that takes industry data – analyzes and scores suppliers.
+* Through accredited data sources on renewables and the availability of these renewable energy sources by country, a complete assessment can be completed of Supply Chain and a scorecard generated to help drive the future of moving towards a Sustainable Supply Chain while helping to reduce CO2 emissions.
 
 # Objectives
 * Rank Suppliers against each other
@@ -43,6 +43,13 @@ China – 33.4% Wind, 18.9% Solar | Solar - Cost: 0.10, CO2e: 52 Wind – Cost: 
 Spain – 5.3% Wind, 2.4% Solar | Solar - Cost: 0.11, CO2e: 54 Wind – Cost: 0.10, CO2e: 12 | Vector – Elec:10MWh/yr Fossil: 2MWh/yr 
 Brazil – 2% Wind, 2.8% Nuclear | Nuclear- Cost: 0.15, CO2e: 12 Wind – Cost: 0.12, CO2e: 13 | Interprint – Elec: 30MWh/yr Solar: 3.5MWh/yr Fossil: 0.5MWh/yr
 Japan – 0.7% Wind, 15.4% Solar | Solar - Cost: 0.12, CO2e: 54 Wind – Cost: 0.12, CO2e: 14 | NEC – Elec: 20MWh/yr Solar: 1MWh/yr Biomass – 0.5MWh/yr
+
+# Algorithm
+![alt text](https://github.com/AnalyticsHackathon/RenewableEnergy/blob/master/doc/algorithm_EnergyPotential.png)
+![alt text](https://github.com/AnalyticsHackathon/RenewableEnergy/blob/master/doc/algorithm_TotalCost.png)
+![alt text](https://github.com/AnalyticsHackathon/RenewableEnergy/blob/master/doc/algorithm_TotalEmission.png)
+* Minimizing the 2nd function gives us the most cost optimal solution which may not be green
+* Minimizing the 3rd function gives us the most green solution
 
 # Results
 https://github.com/AnalyticsHackathon/RenewableEnergy/blob/master/doc/RenewableEnergy-SEMI-FINAL.pptx 
