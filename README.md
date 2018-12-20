@@ -2,8 +2,8 @@
 Data analysis and prediction of which is the most carbon efficient country in the future
 
 # Why & What?
-Develop a Score-Card modeling tool that takes industry data – analyzes and scores Cisco’s suppliers.
-* Through accredited data sources on renewables and the availability of these renewable energy sources by country, a complete assessment can be completed of Cisco’s Supply Chain and a scorecard generated to help drive the future of moving towards a Sustainable Supply Chain while helping to reduce CO2 emissions.
+Develop a Score-Card modeling tool that takes industry data – analyzes and scores suppliers.
+* Through accredited data sources on renewables and the availability of these renewable energy sources by country, a complete assessment can be completed of Supply Chain and a scorecard generated to help drive the future of moving towards a Sustainable Supply Chain while helping to reduce CO2 emissions.
 
 # Objectives
 * Rank Suppliers against each other
